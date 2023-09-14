@@ -19,5 +19,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nia3324&&hide_border=true&show_icons=true&locale=en&layout=compact&theme=dracula" alt="nia3324" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nia3324&&hide_border=true&show_icons=true&theme=dracula" alt="nia3324" /></p>
 
