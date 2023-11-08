@@ -3,7 +3,7 @@
 <h1 align="center">Hey yo, I'm Antónia Brito!</h1>
 <h3 align="center">A passionate AI and Data Science Student from Portugal</h3>
 
-- 🌱 I’m currently studying **[AI and Data Science](https://sigarra.up.pt/fcup/pt/cur_geral.cur_view?pv_ano_lectivo=2022&pv_origem=CUR&pv_tipo_cur_sigla=L&pv_curso_id=23521)**
+- 🌱 I’m currently studying **[AI and Data Science](https://sigarra.up.pt/fcup/en/cur_geral.cur_view?pv_ano_lectivo=2022&pv_origem=CUR&pv_tipo_cur_sigla=L&pv_curso_id=23521)**
 
 - 👩‍💻 How to reach me **antonia.c.brito2@gmail.com**
 
