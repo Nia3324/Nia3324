@@ -7,7 +7,7 @@
 
 - 👩‍💻 How to reach me **antonia.c.brito2@gmail.com**
 
-- 💬 Fun fact I **love plants** and **going for a swim**
+- 💬 Fun fact I love plants and going for a swim
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
